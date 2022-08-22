@@ -1,0 +1,6 @@
+{
+    "databaseConfig": {
+        "host": "54.173.65.125:27017,54.159.184.69:27017,34.226.153.225:27017",
+        "database": "customers?replicaSet=rs0"
+    }
+}
